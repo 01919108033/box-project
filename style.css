@@ -1,0 +1,218 @@
+#container {
+    width: 800px;
+    height: 600px;
+    background-color: greenyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: capitalize;
+    position: relative;
+    margin: auto;
+    
+
+}
+
+#nadim {
+    width: 400px;
+    height: 300px;
+    background-color: brown;
+    position: absolute;
+    right: 0;
+    
+}
+
+#nadim1 {
+    width: 400px;
+    height: 300px;
+    background-color: blue;
+    position: absolute;
+    left: 0;
+}
+
+#nadim3 {
+    width: 400px;
+    height: 300px;
+    background-color: fuchsia;
+    position: absolute;
+    top: 300px;
+    right: 0;
+}
+
+#nadim4 {
+    width: 400px;
+    height: 300px;
+    background-color: darkorange;
+    position: absolute;
+    left: 0;
+    top: 300px;
+}
+
+
+
+#nadim5 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(202, 33, 33);
+    position: absolute;
+    right: 0;
+}
+
+#nadim6 {
+    width: 200px;
+    height: 150px;
+    background-color:  rgb(167, 189, 200);
+    position: absolute;
+    left:0;
+    margin:
+    
+
+}
+
+#nadim7 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(167, 189, 200);
+    position: absolute;
+    top: 150px;
+    left: 0;
+}
+#nadim8 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(19, 201, 135);
+    position: absolute;
+    top: 150px;
+    right: 0;
+}
+#nadim9 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(22, 138, 233);
+    position: absolute;
+    right: 0;
+}
+
+#nadim10 {
+    width: 200px;
+    height: 150px;
+    background-color: lemonchiffon;
+    position: absolute;
+    left:0;
+    
+
+}
+
+#nadim11 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(167, 189, 200);
+    position: absolute;
+    top: 150px;
+    left: 0;
+}
+#nadim12 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(19, 201, 135);
+    position: absolute;
+    top: 150px;
+    right: 0;
+}
+#nadim13 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(22, 138, 233);
+    position: absolute;
+    right: 0;
+}
+
+#nadim14 {
+    width: 200px;
+    height: 150px;
+    background-color: lemonchiffon;
+    position: absolute;
+    left:0;
+    
+
+}
+
+#nadim15 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(167, 189, 200);
+    position: absolute;
+    top: 150px;
+    left: 0;
+}
+#nadim16 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(19, 201, 135);
+    position: absolute;
+    top: 150px;
+    right: 0;
+}
+#nadim17 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(22, 138, 233);
+    position: absolute;
+    right: 0;
+    margin: 2px;
+    
+}
+
+#nadim18 {
+    width: 200px;
+    height: 150px;
+    background-color: lemonchiffon;
+    position: absolute;
+    left:0;
+    margin: 2px;
+    
+    
+    
+
+}
+
+#nadim19 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(167, 189, 200);
+    position: absolute;
+    top: 150px;
+    left: 0;
+    margin: 2px;
+    
+    
+}
+#nadim20 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(19, 201, 135);
+    position: absolute;
+    top: 150px;
+    right: 0;
+
+    
+}
+
+
+
+#shourov{
+    position: relative;
+   
+}
+#shourov1{
+    position: relative;
+ 
+  
+}
+#shourov2{
+    position: relative;
+  
+}
+#shourov3{
+    position: relative;
+    box-sizing: border-box;
+   
+}
+
